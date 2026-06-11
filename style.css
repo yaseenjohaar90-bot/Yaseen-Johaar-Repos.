@@ -1,0 +1,18 @@
+body {
+  font-family: system-ui;
+  background: #1A472A;
+  color: gold;
+  text-align:center;
+}
+.center-images{text-align:center;
+}
+.uniform-img {
+  width: 270px; 
+  height: 200px; 
+  object-fit: cover; 
+  margin: 12px;
+}
+ul {
+  display: inline-block;
+  text-align: left;
+}
